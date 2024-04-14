@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{672C6327-DE05-4C07-AECB-01A1DFC9C90D}|Infrastructure\\Infrastructure.csproj|c:\\users\\mr. angelo\\documents\\silicon\\infrastructure\\migrations\\20240413180015_profile img added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{672C6327-DE05-4C07-AECB-01A1DFC9C90D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240413180015_profile img added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\partials\\sections\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\partials\\sections\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\partials\\sections\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\partials\\sections\\_worktools.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\partials\\sections\\_worktools.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\shared\\_cookieconsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\shared\\_cookieconsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\partials\\sections\\_switchmode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\partials\\sections\\_switchmode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\partials\\sections\\_showcase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\partials\\sections\\_showcase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\partials\\sections\\_managework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\partials\\sections\\_managework.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\partials\\sections\\_features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\partials\\sections\\_features.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|c:\\users\\mr. angelo\\documents\\silicon\\silicon_1\\views\\partials\\sections\\_download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B7A50D-7E15-49F1-B8B6-7500FAA854DA}|Silicon_1\\Silicon_1.csproj|solutionrelative:silicon_1\\views\\partials\\sections\\_download.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240413180015_profile img added.cs",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Infrastructure\\Migrations\\20240413180015_profile img added.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240413180015_profile img added.cs",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Infrastructure\\Migrations\\20240413180015_profile img added.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20240413180015_profile img added.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:10:57.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Silicon_1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Silicon_1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:05:49.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Silicon_1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Silicon_1\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:05:45.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Silicon_1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Silicon_1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAmwBoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:05:30.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Program.cs",
+              "RelativeDocumentMoniker": "Silicon_1\\Program.cs",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Program.cs",
+              "RelativeToolTip": "Silicon_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:04:06.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:02:10.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:43.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:41.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_CookieConsent.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Shared\\_CookieConsent.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Shared\\_CookieConsent.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Shared\\_CookieConsent.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Shared\\_CookieConsent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:40.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:26.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Partials\\Sections\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Footer.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Partials\\Sections\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:16.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Header.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Partials\\Sections\\_Header.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:18.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:02:44.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Worktools.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Worktools.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Partials\\Sections\\_Worktools.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Worktools.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Partials\\Sections\\_Worktools.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:25.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Switchmode.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Switchmode.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Partials\\Sections\\_Switchmode.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Switchmode.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Partials\\Sections\\_Switchmode.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:23.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Showcase.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Showcase.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Partials\\Sections\\_Showcase.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Showcase.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Partials\\Sections\\_Showcase.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:22.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Managework.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Managework.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Partials\\Sections\\_Managework.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Managework.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Partials\\Sections\\_Managework.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:19.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Features.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Features.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Partials\\Sections\\_Features.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Features.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Partials\\Sections\\_Features.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:15.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Download.cshtml",
+              "DocumentMoniker": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Download.cshtml",
+              "RelativeDocumentMoniker": "Silicon_1\\Views\\Partials\\Sections\\_Download.cshtml",
+              "ToolTip": "C:\\Users\\MR. ANGELO\\Documents\\Silicon\\Silicon_1\\Views\\Partials\\Sections\\_Download.cshtml",
+              "RelativeToolTip": "Silicon_1\\Views\\Partials\\Sections\\_Download.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T21:00:13.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
